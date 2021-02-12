@@ -1,2 +1,3 @@
 # imXinJieCDN
- cdn of imXinJie
+cdn of imXinJie
+site: https://imxinjie.com/
